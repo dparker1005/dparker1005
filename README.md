@@ -2,7 +2,7 @@
 
 Lead Developer of **Paid Memberships Pro** — an open-source membership and subscription platform for WordPress.
 
-[![dparker1005 on strangerstudios/paid-memberships-pro](https://www.gitpacks.com/api/card/strangerstudios/paid-memberships-pro/dparker1005)](https://www.gitpacks.com?repo=strangerstudios/paid-memberships-pro)
+<a href="https://www.gitpacks.com/card/strangerstudios/paid-memberships-pro/dparker1005"><img src="https://www.gitpacks.com/api/card/strangerstudios/paid-memberships-pro/dparker1005" alt="dparker1005 on strangerstudios/paid-memberships-pro" width="200" /></a>
 
 I work day-to-day on the core PMPro plugin and its ecosystem: designing features, reviewing and shipping code, maintaining backwards compatibility, and making sure real membership sites keep running smoothly through years of updates.
 
